@@ -1,0 +1,53 @@
+{
+  "rice": {
+    "type": "item"
+  },
+  "almonds, in shell": {
+    "type": "item"
+  },
+  "production": {
+    "type": "element"
+  },
+  "area harvested": {
+    "type": "element"
+  },
+  "india": {
+    "type": "area"
+  },
+  "afghanistan": {
+    "type": "area"
+  },
+  "2011": {
+    "type": "year"
+  },
+  "2012": {
+    "type": "year"
+  },
+  "2013": {
+    "type": "year"
+  },
+  "2014": {
+    "type": "year"
+  },
+  "2015": {
+    "type": "year"
+  },
+  "2016": {
+    "type": "year"
+  },
+  "2017": {
+    "type": "year"
+  },
+  "2018": {
+    "type": "year"
+  },
+  "2019": {
+    "type": "year"
+  },
+  "2020": {
+    "type": "year"
+  },
+  "2021": {
+    "type": "year"
+  }
+}
